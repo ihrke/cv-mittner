@@ -50,7 +50,7 @@ jobs:
           mkdir -p ~/.local/share/fonts
           wget -q https://github.com/adobe-fonts/source-sans-pro/releases/download/3.006R/source-sans-pro-3.006R.zip
           unzip -q source-sans-pro-3.006R.zip -d source-sans-pro
-          cp source-sans-pro/OTF/*.otf ~/.local/share/fonts/
+          find source-sans-pro -name "*.otf" -exec cp {} ~/.local/share/fonts/ \;
           
           # Install Font Awesome 6
           wget -q https://use.fontawesome.com/releases/v6.5.1/fontawesome-free-6.5.1-desktop.zip
