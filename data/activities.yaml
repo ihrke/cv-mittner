@@ -1,0 +1,59 @@
+# Service and Leadership - organized by category
+
+sections:
+  - title: "Appointments"
+    entries:
+      - year: "2022--2024"
+        description: "Head of research, Institute of Psychology, UiT - The arctic university of Norway, Norway"
+      - year: "2022--"
+        description: "Research group leader (RG Cognitive Neuroscience), Institute of Psychology, UiT - The arctic university of Norway, Norway"
+
+  - title: "Selected advisorial and managerial activities"
+    entries:
+      - year: 2025
+        description: "Management committee COST action CA24148"
+        link: https://www.cost.eu/actions/CA24148/
+      - year: 2025
+        description: "Reviewer Riksbankens Jubileumsfond RJ"
+      - year: 2024
+        description: "Review panel member, online course on 'Statistical research methods', Epigum (Sage Publications)"
+      - year: 2024
+        description: "European Research Council (reviewer for ERC Consolidator Grant, ECoG)"
+      - year: 2022
+        description: "Reviewer The French National Centre for Scientific Research (CNRS) - ATIP - Avenir program"
+      - year: 2019
+        description: "Reviewer Netherlands Organisation for Scientific Research (NWO) - Vici Social Sciences and Humanities"
+      - year: 2017
+        description: "Advisor Hertie Foundation Project: Improvement of school education by neuroscientific research"
+
+  - title: "Professional development"
+    entries:
+      - year: "2021--2022"
+        description: "Research group leader development program (University of Tromsø)"
+      - year: "2014--2015"
+        description: "Program for young research leaders; joint program University of Oslo, University of Bergen, University of Trondheim, University of Tromsø - leadership, networking, financing, communication, strategy"
+        link: https://www.uib.no/psyfa/43678/program-yngre-forskningsledere
+      - year: 2008
+        description: "Recording and Analysis of Eye-Movements, Cologne, Germany"
+      - year: 2005
+        description: "Computational Neuroscience at the Max-Planck-Institute for Dynamics and Self-Organization"
+
+  - title: "Institutional Responsibilities"
+    entries:
+      - year: 2022
+        description: "Selection committee for Associate professor in quantitative methods (University of Trondheim)"
+      - year: 2022
+        description: "Evaluation committee for evaluation of qualification for professorship (University of Tromsø)"
+      - year: "2022--2024"
+        description: "Head of the Research Ethics Committee at the Institute for Psychology (IPS-REC, University of Tromsø)"
+        link: https://en.uit.no/research/ethics/ips
+      - year: "2022--2024"
+        description: "Head of committee IPS Research forum (University of Tromsø)"
+      - year: "2022--2024"
+        description: "Member of faculty-level PhD committee (University of Tromsø)"
+      - year: 2021
+        description: "Head of selection committee for Associate professor in cognitive neuroscience (University of Bergen)"
+      - year: 2021
+        description: "Selection committee for PhD positions (University of Trondheim, University of Bergen, University of Helsinki)"
+      - year: "2014--"
+        description: "Evaluation committee for several PhD and post-doc positions (University of Tromsø)"

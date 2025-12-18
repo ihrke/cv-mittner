@@ -1,0 +1,321 @@
+# Students section - organized by degree type
+
+postdocs:
+  - name: Sam Verschooren
+    year:
+      - 2025
+    title: "Controlling the flow of attention: Transition dynamics of attention and distraction across external and internal domains"
+  - name: Josephine Groot
+    year: 
+      - 2024
+    title: Neural mechanisms of off-focus cognition
+  - name: Hema Nawani 
+    year: 
+      - 2020
+      - 2023
+    title: ADHD and mind-wandering
+    main-supervisor: Gábor Csifcsák
+  - name: Gábor Csifcsák 
+    year: 
+      - 2016
+      - 2019
+    title: Optimizing transcranial direct current stimulation for treatment of chronic pain and depression
+    note: HelseNord, PFP1237\_15
+
+phd:
+  - name: Steffen Rygg Aasen
+    year:
+      - 2024
+    title: "Executive functions and mind wandering"
+    main-supervisor: Gábor Csifcsák 
+  - name: Andreas Alexandersen
+    year:
+      - 2023
+    title: "Unraveling the cognitive and neural mechanisms of mind wandering using transcranial electric stimulation"
+    co-supervisor: Gábor Csifcsák 
+  - name: Maren Angel Christensen 
+    year:
+      - 2022
+    title: "Structural differences in brain structure after trauma: An analysis based on the HUNT study and the Tromsø Study"
+    co-supervisor: Mehmet Mehmetoglu
+  - name: Malin Gullsvåg 
+    year:
+      - 2020
+    title: The relation between respiratory mechanisms and cognitive abilities in adolescence and adulthood
+    main-supervisor: Claudia Rodríguez-Aranda
+  - name: Josephine Groot
+    year: 
+      - 2018 
+      - 2023
+    title: Neural mechanisms of off-focus cognition
+    co-supervisor: Birte Forstmann
+  - name: Nya Mehnwolo Boayue 
+    year:
+      - 2016
+      - 2020 
+    title: Neural and computational correlates of mind wandering
+    co-supervisor: Gábor Csifcsák
+  - name: Isabel Viola Kreis 
+    year:
+      - 2017 
+      - 2021
+    title: "Too precise or too imprecise: which parameter is gone awry in autism and psychosis"
+    main-supervisor: Gerit Pfuhl
+  - name: Zsolt Turi
+    year: 
+      - 2011
+      - 2015
+    location: University of Göttingen, Germany
+    title: Methodological and cognitive aspects of transcranial electrical stimulation
+    main-supervisor: Andrea Antal
+  - name: Wouter Boekel
+    year: 
+      - 2013
+      - 2017
+    location: University of Amsterdam, The Netherlands
+    title: "When the brain takes a break: Neural correlates of mind-wandering"
+    main-supervisor: Birte Forstmann
+
+forskerlinje:
+  - name: Almina Selimovic
+    year: 
+      - 2025
+    title: "Through the lens of attention: Factors that systematically modulate pupil dilation"
+    main-supervisor: Josephine Groot
+  - name: Mathilde Aursand
+    year: 
+      - 2025
+    title: "Being with the body: The impact of meditation on interoceptive attention"
+    main-supervisor: Sam Verschooren
+  - name: Ragnhild Drevland 
+    year: 
+      - 2021
+      - 2024
+    title: The effect of cTBS over the left AG on mind wandering
+    link: https://osf.io/vjsm7
+  - name: Steffen Rygg Aasen 
+    year: 
+      - 2021
+      - 2024
+    title: The effect of iTBS over the left DLPFC on mind wandering
+    link: https://osf.io/txpu2
+  - name: Samy Babiker 
+    year: 
+      - 2021
+      - 2024
+    title: Modulating loss of control using rTMS during chronic pain
+    main-supervisor: Gábor Csifcsák
+    link: https://osf.io/r74uk
+  - name: Andreas Alexandersen 
+    year: 
+      - 2020
+      - 2022
+    title: Investigating the relationship between executive control and mind-wandering using transcranial direct current stimulation
+
+msc:
+  - name: Tim Cools
+    year:
+      - 2023
+      - 2024
+    title: Does mind wandering modulate the relationship between gaze and stimulus value?
+    co-supervisor: Lars Hausfeld
+    link: https://osf.io/ca95r
+  - name: Kjell Slupphaug
+    year: 
+      - 2023
+      - 2024
+    title: Moderation and interaction effects in structural equation modeling
+    main-supervisor: Mehmet Mehmetoglu
+    link: https://modsem.org/
+  - name: Ceylin Karayel
+    year: 
+      - 2023
+      - 2024
+    title: Exploring the Link Between Mind-Wandering and Reinforcement Learning
+    co-supervisor: Gábor Csifcsák  
+    link: https://osf.io/ca95r
+  - name: Krister Karlsen 
+    year: 
+      - 2021
+      - 2022
+    title: Mind wandering and online experimentation
+    link: https://osf.io/wjvk2
+  - name: Maren Christensen 
+    year: 
+      - 2021
+      - 2022 
+    title: Volumetric changes in brain structures due to trauma
+  - name: Andreas Alexandersen 
+    year: 
+      - 2020
+      - 2022
+    title: 'The effect of transcranial direct current stimulation on the interplay between executive control, behavioral variability and mind wandering: A registered report'
+    co-supervisor: Gábor Csifcsák
+    link: https://hdl.handle.net/10037/25274
+  - name: 
+      - Caroline Angen
+      - Ina Klakegg
+      - Anastasija Kuprejeva
+    year: 
+      - 2020
+      - 2021
+    main-supervisor: Gábor Csifcsák
+    title: The effect of chronic pain and loss of control on value-based decision making
+  - name: Eirik Melsæter
+    year: 2019
+    title: Intermittent absence of control during reinforcement learning interferes with Pavlovian bias in action selection
+    link: https://osf.io/89mdr
+    main-supervisor: Gábor Csifcsák    
+  - name: Tarjej Hotvedt 
+    year: 2016 
+    co-supervisor: Svein Bergvik
+    title: "Mindfulness and Psoriasis: A pilot study"
+    link: https://munin.uit.no/handle/10037/15507
+  - name: Are Svendsen 
+    year: 
+      - 2014
+      - 2015 
+    title: "Eksistensiell dynamisk terapi på inneliggende pasienter - en eksplorerende studie av utfall og relasjonelle virkningsmekanismer"
+    main-supervisor: Jørgen Sundby
+  - name: Ida Marie Opdahl
+    year: 
+      - 2014
+      - 2015
+    title: Wandering body, wandering mind? The relationship between bodily movement, creativity and mind-wandering
+    link: https://munin.uit.no/handle/10037/9143
+  - name: Ira Beckmann
+    year: 2010
+    title: Negatives Priming als Identifikations- oder Selektionsphänomen
+    main-supervisor: Jörg Behrendt
+
+profesjon:
+  - name: 
+      - Ida Jespersen Rønningsen
+      - Marcus Buvik
+    year: 2023
+    title: "The effect of excitatory and inhibitory TBS over the left AG on mind wandering"
+    co-supervisor: Gábor Csifcsák
+    link: https://osf.io/x2vmt
+  - name: 
+      - Jostein Ilvær
+      - Andreas Thommesen
+    year: 2022
+    title: "The effect of transcranial temporal interference stimulation (tTIS) on value-based decision making in healthy adults"
+    co-supervisor: Gábor Csifcsák
+  - name: 
+      - Emilia Judeth Olsen
+      - Nora N. Holmboe
+    year: 2022
+    title: "Parafilia og selvregulering: En normeringsstudie"
+    co-supervisor: Thomas Eilertsen (SIFER NORD)
+    link: https://osf.io/sgk8v
+  - name: 
+      - Robert Taknes
+      - Tim Lockertsen 
+    year: 2020
+    title: "Psykologi i rettens tjeneste: Hvilke faktorer påvirker årsaksattribusjon i erstatningssaker for psykisk helseskade?"
+    link: https://munin.uit.no/handle/10037/21126
+    main-supervisor: Jørgen Sundby
+  - name: Pål Ovanger Stensland
+    year: 2021
+    title: "The role of eye-movements and pupillometry in the representation of value in a reinforcement-learning context"
+  - name: 
+      - Celina Jakobsen
+      - Joakim
+    year: 2021
+    title: "Klinikers vurdering mtp kjønn og ADHD utredninger"
+    main-supervisor: Jørgen Sundby
+
+bsc:
+  - name: Christian Fossheim 
+    year: 2015
+    title: Moment-to-moment fluctuations in emotional valence and mind-wandering
+  - name: Ingrid Marie Skjerstad
+    year: 2017
+    title: The wandering mind of the long-distance runner
+  - name: 
+      - Anna Elfrida Vollsund
+      - Iselin Finn
+    year: 2018
+    co-supervisor:
+      - Gábor Csifcsák
+    title: Effectiveness of HD-tDCS on influencing executive control during mind wandering
+    link: https://osf.io/nm2sz/
+  - name: Kristian Østhagen Haukås 
+    year: 2019
+    title: The wandering mind of the long-distance runner
+  - name: 
+      - Aurora Vangen
+      - Samy Babiker
+      - Sanna Sandell
+      - Silje Haugan
+      - Steffen Rygg Aasen
+    main-supervisor:
+      - Gábor Csifcsák
+    year: 2021
+    title: "The effect of sleep-deprivation on mind-wandering: an EEG study"
+    link: https://osf.io/xq6wr
+  - name:
+      - Emily Haga
+      - August Lullau
+    co-supervisor:
+      - Zsolt Turi
+      - Gábor Csifcsák
+    year: 2021
+    title: "Transcranial Magnetic Stimulation Efficacy in Depression - A Systematic Review and Meta-Analysis"
+  - name: 
+      - Caroline Angen
+      - Marlene Holdt
+    year: 2020
+    title: "Employment of mental effort and representation of environmental volatility during intermittent absence of control over rewards and losses under different feedback schedules"
+    link: https://osf.io/7wcej/
+    main-supervisor: Gábor Csifcsák
+  - name: 
+      - Jorunn Bjørkøy
+      - Sarjo Kuyateh
+      - Håkon Reithe
+    year: 2018
+    title: "Transcranial direct current stimulation above the medial prefrontal cortex facilitates decision-making following periods of low outcome controllability"
+    link: https://psyarxiv.com/rbeuz/
+    main-supervisor: Gábor Csifcsák
+
+exchange:
+  - name: Stefan Weinhardt
+    year: 2025
+    title: "The effect of respiration on internal and externally directed attention"
+    main-supervisor: Sam Verschooren
+    link: https://osf.io/xgjyr
+  - name: Thea Waldleben
+    year: 2025
+    title: "High-precision multi-session estimation of individual functional connectivity networks"
+  - name: Federica Luzzi
+    year: 2022
+    title: "The effect of transcranial temporal interference stimulation (tTIS) on value-based decision making"
+    link: https://osf.io/rc756
+  - name: Sven Wientjes 
+    year: 2020 
+    title: Hidden Markov Models for estimating attentional focus
+  - name: Terezie Sedlinska 
+    year: 
+      - 2019
+      - 2021
+    title: The impact of loss-of-control on system arbitration
+    co-supervisor: Gabor Csifcsak
+    link: https://osf.io/73huk
+  - name: Tabea Brödel 
+    year: 2021
+    title: Methods for blink detection in pupillometric data
+    co-supervisor: Josephine Groot
+  - name: Isabel Kreis
+    year: 2016
+    title: The role of executive functions in mind wandering
+    link: https://doi.org/10.1111/ejn.15049
+  - name: Carole Schmidt
+    year: 2017
+    title: The role of executive functions in mind wandering
+    link: https://doi.org/10.1111/ejn.15049
+  - name: Divyaratan Popli
+    year: 2013
+    location: University of Amsterdam
+    title: Eye-tracking and pupillometric correlates of mind wandering
+    co-supervisor: Birte Forstmann

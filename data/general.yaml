@@ -1,0 +1,25 @@
+# General CV information
+firstname: "Matthias"
+lastname: "Mittner"
+email: "matthias.mittner@uit.no"
+phone: "+47 471 85 978"
+github: "ihrke"
+homepage: "https://ihrke.github.io"
+orcid: "0000-0003-0205-7353"
+birth: "September 1, 1982"
+address: "Ersfjordvegen 98, 9107 Kvaløya, Norway"
+scholar: "AFB4RYIAAAAJ"
+linkedin: "matthias-mittner-7b046167"
+address: "University of Tromsø, Department of Psychology, 9037 Tromsø, Norway"
+positions:
+  - "Professor of Cognitive Neuroscience"
+profile_picture: "data/pics/matthias_solstrand_rund.jpg"  # or path to image file
+date: null  # will use current date if null
+intro: | 
+  I am a professor at the UiT - The arctic university of Norway in Tromsø and at the 
+  Norwegian University of Science and Technology in Trondheim. My main interests within 
+  the field of cognitive neuroscience are mind wandering, non-invasive brain
+  stimulation, decision making, pupillometry and selective attention. I am also
+  interested in the development of methodological approaches in my field and
+  enjoy computational methods, cognitive modeling, machine-learning and Bayesian
+  statistics.

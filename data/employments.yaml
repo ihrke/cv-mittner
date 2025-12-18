@@ -1,0 +1,79 @@
+# Employments section
+- position: "Professor II"
+  location: "Trondheim, Norway"
+  date: "2021/03 - present"
+  subject: "Quantitative Methods"
+  description: |
+    - Department of Psychology, Norwegian University of Science and Technology, Trondheim
+
+- position: "Professor"
+  location: "Tromsø, Norway"
+  date: "2020/09 - present"
+  subject: "Cognitive Neuroscience"
+  description: |
+    - Institute of Psychology, University of Tromsø, Tromsø
+
+- position: "Associate Professor"
+  location: "Tromsø, Norway"
+  date: "2014/04 - 2020/09"
+  subject: "Cognitive Neuroscience"
+  description: |
+    - Institute of Psychology, University of Tromsø, Tromsø
+
+- position: "Post-Doctoral Researcher"
+  location: "Amsterdam, The Netherlands"
+  date: "2013/04 - 03/2014"
+  subject: "Cognitive Neuroscience"
+  description: |
+    - Cognitive Science Center Amsterdam, Universiteit van Amsterdam
+    - Supervisor: Prof. Birte Forstmann
+
+- position: "Post-Doctoral Researcher"
+  location: "Göttingen, Germany"
+  date: "2012/09 - 2013/03"
+  subject: "Theoretical Neuroscience"
+  description: |
+    - Max-Planck Institute for Experimental Medicine, Göttingen
+    - Supervisor: Prof. Robert Gütig
+
+- position: "PhD-Student"
+  location: "Göttingen, Germany"
+  date: "2008/10 - 2012/01"
+  subject: "Computational Neuroscience"
+  description: |
+    - Max-Planck Institute for Dynamics and Self-Organization, Göttingen
+    - Göttingen Graduate School for Neurosciences and Molecular Biosciences (GGNB)
+    - Doctoral Program: Theoretical and Computational Neuroscience (PTCN)
+    - Supervisor: Prof. Marcus Hasselhorn
+
+- position: "Guest Researcher"
+  location: "Göttingen, Germany"
+  date: "2008/03 - 2008/09"
+  subject: "Computational Neuroscience"
+  description: |
+    - Max-Planck Institute for Dynamics and Self-Organization, Göttingen
+    - Project: cognitive modelling and data-mining (EEG)
+
+- position: "Guest Researcher"
+  location: "Saarbrücken, Germany"
+  date: "2007/11 - 2008/02"
+  subject: "Computer graphics"
+  description: |
+    - Max-Planck Institute for Informatics, Saarbrücken
+    - Project: optical modelling and psychophysics
+
+- position: "Research Assistant"
+  location: "Göttingen, Germany"
+  date: "2005/09 - 2007/10"
+  subject: "Computational Neuroscience"
+  description: |
+    - Bernstein Center for Computational Neuroscience, Göttingen
+    - Project: cognitive modelling; psychophysical experiments
+
+- position: "Student Assistant"
+  location: "Göttingen, Germany"
+  date: "2003/09 - 2004/08"
+  subject: "Psychology"
+  description: |
+    - Department for Developmental Psychology, University of Göttingen
+    - Duties: computer administration and development of experimental software

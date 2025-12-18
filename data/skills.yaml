@@ -1,0 +1,59 @@
+# Skills section
+
+experimental_methods:
+  - fMRI
+  - EEG/ERP
+  - EOG
+  - tDCS
+  - TMS
+  - eye-tracking
+  - pupillometry
+
+programming:
+  very_good:
+    - Python
+    - R
+    - C
+    - C++
+    - Matlab/Octave
+  good:
+    - Perl
+    - Java
+    - SQL
+    - PHP
+    - Presentation
+  moderate:
+    - F77
+    - Assembler
+    - Objective C
+    - Bash
+    - Javascript
+
+computing:
+  - Parallel Programming (MPI)
+  - GPU Programming (OpenGL)
+  - Unix/Linux Administration
+  - LaTeX
+  - HTML/CSS
+
+languages:
+  - language: German
+    level: native
+  - language: English
+    level: fluently written, read and spoken
+  - language: Norwegian
+    level: fluently written, read and spoken
+  - language: French
+    level: basic skills
+  - language: Dutch
+    level: basic skills
+
+sports:
+  - running
+  - skiing
+  - judo
+  - rock-climbing
+  - hiking
+  - table-tennis
+  - football
+

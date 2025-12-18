@@ -1,0 +1,90 @@
+# Teaching section - organized by institution
+
+institutions:
+  - name: "University of Tromsø"
+    location: "Tromsø, Norway"
+    date: "from 2014"
+    levels:
+      - level: "Undergraduate"
+        courses:
+          - name: "Methods and Statistics III"
+            code: "PSY-1513"
+          - name: "Methods and Statistics I"
+            code: "PSY-1511"
+          - name: "Open Science"
+            code: "PSY-2901"
+          - name: "Cognitive Neuroscience"
+            code: "PSY-2547, PSY-2553"
+          - name: "Affective Neuroscience"
+            code: "PSY-2549"
+          - name: "Biological Psychology"
+            code: "PSY-1004"
+          - name: "Psychometrics"
+            code: "PSY-1504"
+          - name: "Practical Course: Gerontopsychology"
+            code: "PSY-2543"
+          - name: "Research Practical"
+            code: "PSY-1509/1510"
+          - name: "Research skills for Master students"
+            code: "PSY-3900"
+          - name: "Research communication"
+            code: "PSY-1702"
+      - level: "PhD Courses"
+        courses:
+          - name: "Quantitative Research Methods"
+            code: "HEL-8024"
+          - name: "Applied Linear Regression"
+            code: "HEL-8030"
+          - name: "Research Design and Statistics"
+            code: "PSY-8002"
+          - name: "Quantitative Method in Clinical Health Research"
+            code: "HEL-8017"
+          - name: "Informal reading club for PhD students and faculty: Bayesian statistics"
+
+  - name: "NTNU, Trondheim"
+    location: "Trondheim, Norway"
+    date: "from 2021"
+    levels:
+      - level: "Continuing Education and Professional Development"
+        courses:
+          - name: "Learning R for research and reporting: From basics to advanced applications"
+            code: "PSY6016"
+      - level: "PhD Courses"
+        courses:
+          - name: "Multivariate quantitative research methods"
+            code: "PSY8003"
+      - level: "Undergraduate"
+        courses:
+          - name: "Research Methods"
+            code: "PSY3100"
+          - name: "Statistics and quantitative research methods"
+            code: "PSY2017"
+          - name: "Research Design"
+            code: "PSY2022"
+
+  - name: "University of Amsterdam"
+    location: "Amsterdam, The Netherlands"
+    date: "summer 2013"
+    levels:
+      - level: "Master"
+        courses:
+          - name: "Introduction to Neuroscientific Methods and Brain Anatomy"
+            description: "lecture and practical on electroencephalography"
+
+  - name: "University of Göttingen"
+    location: "Göttingen, Germany"
+    levels:
+      - level: "GGNB Methods Course (introductory level)"
+        courses:
+          - name: "Introduction to Python Programming"
+            code: "A123"
+            date: "winter term, 2011/2012"
+          - name: "Matlab and Python Programming"
+            code: "A109"
+            date: "winter term, 2010/2011"
+      - level: "Teaching Seminar"
+        courses:
+          - name: "Gestaltung von Lehr-Lernprozessen"
+            date: "summer term, 2010"
+            description: "Introductory seminar to the psychology of learning and teaching for students pursuing teaching certification"
+

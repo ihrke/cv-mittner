@@ -1,0 +1,82 @@
+# Grants section
+grants:
+  - title: "UiT Talent Infrastructure"
+    date: "2025"
+    amount: "4.6 million NOK, ≈ 420,000 EUR"
+    description: |
+      - COCAMAP: Cognitive causal mapping: Stimulation-based brain-mapping of cognitive functions 
+      - acquisition of a robotic system for cognitive causal mapping
+
+  - title: "MSCA-PF (host)"
+    date: "2024/25 - 2026/27"
+    amount: "2.4 million NOK, ≈ 210,000 EUR"
+    description: |
+      - Controlling the flow of attention: Transition dynamics of attention and distraction across external and internal domains (MIND-FLOW)
+      - 2 year post-doc project
+
+  - title: "UiT High Score/UiT Talent"
+    date: "2024 - 2027"
+    amount: "3 million NOK, ≈ 350,000 EUR"
+    description: |
+      - Neural mechanisms of off-focus cognition
+      - 3 year full-time post-doc project
+
+  - title: "HelseNord project PFP1237_15"
+    date: "2015 - 2018"
+    amount: "3 million NOK (≈ 350,000 EUR)"
+    description: |
+      - Optimizing transcranial direct current stimulation for treatment of chronic pain and depression
+      - 3 year full-time post-doc project
+
+  - title: "PhD candidate from Health faculty, UiT"
+    date: "2016 - 2020"
+    amount: ""
+    description: |
+      - Neural and computational correlates of mind wandering
+      - 4 year PhD project
+
+# Personal Scholarships & Awards section
+scholarships:
+  - title: "Incentive grant"
+    date: "2017"
+    location: "University of Tromsø"
+    amount: "200k NOK, ≈ 18,000 EUR"
+    description: |
+      - Grant awarded by the Faculty of Health for excellent grades in external applications 
+
+  - title: "Incentive grant"
+    date: "2016"
+    location: "University of Tromsø"
+    amount: "200k NOK, ≈ 18,000 EUR"
+    description: |
+      - Grant awarded by the Faculty of Health for excellent grades in external applications 
+
+  - title: "Research Prize"
+    date: "2015"
+    location: "University of Tromsø"
+    description: |
+      - Research prize from the Institute for Psychology
+
+  - title: "GGNB Fellowship"
+    date: "2009/05 - 2012/01"
+    location: "Göttingen, Germany"
+    description: |
+      - Full-time PhD Scholarship offered by Göttingen Graduate School for Neurosciences and Molecular Biosciences (GGNB)
+
+  - title: "GGNB Bridging Fund Scholarship"
+    date: "2008/10 - 2008/12"
+    location: "Göttingen, Germany"
+    description: |
+      - Scholarship offered by Göttingen Graduate School for Neurosciences and Molecular Biosciences (GGNB)
+
+  - title: "DFG Scholarship"
+    date: "2009/01 - 2009/04"
+    location: "Germany"
+    description: |
+      - Full-time Scholarship "Passungsverhältnisse schulischen Lernens: Verstehen und Optimieren"
+
+  - title: "Erasmus Scholarship"
+    date: "2004/07 - 2005/08"
+    location: "Oslo (UiO), Norway"
+    description: |
+      - Scholarship for studies abroad

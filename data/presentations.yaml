@@ -1,0 +1,84 @@
+# Invited presentations
+- date: "2025"
+  location: "Boston, US"
+  conference: "Cognitive Neuroscience Meeting (CNS)"
+  title: "Selected invited presentations"
+  invited: true
+
+- date: "2025"
+  location: "Berlin, Germany"
+  conference: "Seminar series Max-Planck Institute for Human Development"
+  title: "Invited seminar"
+  invited: true
+
+- date: "2025"
+  location: "Freiburg, Germany"
+  conference: "IMBIT seminar series, University of Freiburg"
+  title: "Invited seminar"
+  invited: true
+
+- date: "2024"
+  location: "Paris, France"
+  conference: "Institute du Cerveau"
+  title: "Invited workshop lecturer"
+  invited: true
+
+- date: "2023"
+  location: "Freiburg, Germany"
+  conference: "Network Modeling for Transcranial Magnetic Stimulation (NEMO-TMS)"
+  title: "Invited presentation"
+  invited: true
+
+- date: "2023"
+  location: "Oslo, Norway"
+  conference: "University of Oslo"
+  title: "Invited symposium"
+  invited: true
+
+- date: "2022"
+  location: "Helsinki, Finland"
+  conference: "International Conference on Cognitive Neuroscience (ICON)"
+  title: "Invited presentation"
+  invited: true
+
+- date: "2022"
+  location: "Paris, France"
+  conference: "Laboratoire de Sciences Cognitives et Psycholinguistique, École Normale Supérieure"
+  title: "Invited presentation"
+  invited: true
+
+- date: "2021"
+  location: "Online"
+  conference: "Organization for Human Brain Mapping (OHBM)"
+  title: "Invited presentation"
+  invited: true
+
+- date: "2021"
+  location: "Norway"
+  conference: "NRSN National Neuroscience Symposium"
+  title: "Invited presentation"
+  invited: true
+
+- date: "2019"
+  location: "Trondheim, Norway"
+  conference: "fMRI 20-year Anniversary Seminar, University of Trondheim"
+  title: "Invited presentation"
+  invited: true
+
+- date: "2017"
+  location: "Uslar, Germany"
+  conference: "The Role of Neural Oscillations in Human Cognition (Summer School)"
+  title: "Invited presentation"
+  invited: true
+
+- date: "2016"
+  location: "Amsterdam, The Netherlands"
+  conference: "Mind-Wandering Symposium, University of Amsterdam"
+  title: "Invited presentation"
+  invited: true
+
+- date: "2014"
+  location: "Brisbane, Australia"
+  conference: "International Conference on Cognitive Neuroscience (ICON)"
+  title: "Invited presentation"
+  invited: true

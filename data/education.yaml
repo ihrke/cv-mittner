@@ -1,0 +1,41 @@
+# Education section
+- degree: "Dr. phil."
+  location: "University of Frankfurt, Germany"
+  date: "21.12.2011"
+  subject: "Psychology"
+  description: |
+    - Thesis: 'Binding and Retrieval of Stimulus-Response Episodes in the Negative Priming Paradigm'
+    - Grade: Summa cum laude
+
+- degree: "B. Sc."
+  location: "Institute of Computer Science, University of Göttingen, Germany"
+  date: "2005/07 - 2008/04"
+  subject: "Computer Science"
+  description: |
+    - Thesis: 'Single Trial Estimation and Timewarped Averaging of Event-Related Potentials'
+
+- degree: "Diploma"
+  location: "Department of Psychology, University of Göttingen, Germany"
+  date: "2005/07 - 2007/11"
+  subject: "Psychology"
+  description: |
+    - Thesis: 'Negative Priming and Response-Relation: Behavioural and Electroencephalographic Correlates'
+
+- degree: "Student at the University of Oslo"
+  location: "Oslo, Norway"
+  date: "2004/08 - 2005/06"
+  subject: "Psychology and Computer Science"
+  description: |
+    - Erasmus-Scholarship; studies of computer science and psychology
+
+- degree: "B. Sc. (equivalent)"
+  location: "Department of Psychology, University of Göttingen, Germany"
+  date: "2002/09 - 2004/07"
+  subject: "Psychology"
+  description: |
+    - Thesis: 'An Adaptive Approach to Memory-Span Tasks'
+
+- degree: "High-School Diploma"
+  location: "Alexander von Humboldt Gymnasium, Eberswalde, Germany"
+  date: "2002/06"
+  subject: "Main subjects physics and mathematics"
