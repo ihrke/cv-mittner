@@ -1,0 +1,60 @@
+name: Build CV PDF
+
+on:
+  push:
+    branches:
+      - main
+      - master
+    paths:
+      - 'data/**'
+      - 'templates/**'
+      - 'rendercv.py'
+      - 'cv_matthias.typ'
+      - '.github/workflows/build-cv.yml'
+  pull_request:
+    branches:
+      - main
+      - master
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Install Typst
+        uses: typst-community/setup-typst@v4
+
+      - name: Render CV template
+        run: python rendercv.py
+
+      - name: Compile PDF with Typst
+        run: typst compile cv_matthias.typ cv_matthias.pdf
+
+      - name: Upload PDF artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: cv_matthias
+          path: cv_matthias.pdf
+          retention-days: 30
+
+      - name: Commit and push PDF (on push to main/master)
+        if: github.event_name == 'push' && (github.ref == 'refs/heads/main' || github.ref == 'refs/heads/master')
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add cv_matthias.pdf
+          git diff --staged --quiet || git commit -m "🤖 Auto-update CV PDF [skip ci]"
+          git push
+
