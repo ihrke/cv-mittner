@@ -47,7 +47,10 @@ jobs:
           sudo apt-get install -y fonts-firacode fonts-roboto
           
           # Install Libertinus Serif font
-          sudo apt-get install -y fonts-libertinus
+          mkdir -p ~/.local/share/fonts
+          wget -q https://github.com/alerque/libertinus/releases/download/v7.051/Libertinus-7.051.zip
+          unzip -q Libertinus-7.051.zip -d libertinus
+          find libertinus -name "*.otf" -exec cp {} ~/.local/share/fonts/ \;
           
           # Install Font Awesome 6
           wget -q https://use.fontawesome.com/releases/v6.5.1/fontawesome-free-6.5.1-desktop.zip
