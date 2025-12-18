@@ -46,11 +46,11 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y fonts-firacode fonts-roboto
           
-          # Install Source Sans 3
+          # Install Source Sans Pro (to match local builds)
           mkdir -p ~/.local/share/fonts
-          wget -q https://github.com/adobe-fonts/source-sans/releases/download/3.052R/OTF-source-sans-3.052R.zip
-          unzip -q OTF-source-sans-3.052R.zip -d source-sans
-          cp source-sans/OTF/*.otf ~/.local/share/fonts/
+          wget -q https://github.com/adobe-fonts/source-sans-pro/releases/download/3.006R/source-sans-pro-3.006R.zip
+          unzip -q source-sans-pro-3.006R.zip -d source-sans-pro
+          cp source-sans-pro/OTF/*.otf ~/.local/share/fonts/
           
           # Install Font Awesome 6
           wget -q https://use.fontawesome.com/releases/v6.5.1/fontawesome-free-6.5.1-desktop.zip
