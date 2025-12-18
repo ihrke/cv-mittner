@@ -201,7 +201,6 @@
   colored-headers: true,
   show-footer: true,
   language: "en",
-  font: ("Source Sans Pro", "Source Sans 3"),
   header-font: ("Roboto"),
   body,
 ) = {
@@ -221,7 +220,7 @@
   }
 
   set text(
-    font: font,
+//    font: font,
     lang: language,
     size: 11pt,
     fill: color-darkgray,
@@ -690,7 +689,7 @@
   date: datetime.today().display("[month repr:long] [day], [year]"),
   accent-color: default-accent-color,
   language: "en",
-  font: ("Source Sans Pro", "Source Sans 3"),
+  font: ("Libertinus Serif"),
   show-footer: true,
   closing: none,
   body,
