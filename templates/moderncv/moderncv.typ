@@ -513,6 +513,7 @@
   title: none,
   role: none,
   url: none,
+  note: none,
 ) = {
   block(above: 0.6em, below: 0.4em)[
     #grid(
@@ -523,7 +524,7 @@
       ],
       [
         #text(size: 10pt, weight: "regular", fill: color-darkgray)[
-          "#title"#if role != none [ #text(fill: color-gray)[(#role)]]
+          "#title"#if role != none [ #text(fill: color-gray)[(#role)]]#if note != none [ --- #text(style: "italic", fill: color-gray)[#note]]
         ]
         #if url != none [
           \ #text(font: "Fira Code", size: 8pt, fill: rgb("#3734df"))[#link(url)[#url]]

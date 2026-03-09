@@ -674,33 +674,50 @@ statistics.
 == Post-doctoral researchers
 
 #student-entry(
+  name: [Vesal Rasoulzadeh],
+  year: "2026",
+  title: "Time-on-task effects on attentional transitions",
+  role: none,
+  url: none,
+  note: "visiting post-doc (Roeljan Wiersema)")
+#student-entry(
   name: [Sam Verschooren],
   year: "2025",
   title: "Controlling the flow of attention: Transition dynamics of attention and distraction across external and internal domains",
   role: none,
-  url: none)
+  url: none,
+  note: none)
 #student-entry(
   name: [Josephine Groot],
   year: "2024",
   title: "Neural mechanisms of off-focus cognition",
   role: none,
-  url: none)
+  url: none,
+  note: none)
 #student-entry(
   name: [Hema Nawani],
   year: "2020-2023",
   title: "ADHD and mind-wandering",
   role: "co-supervisor, main supervisor: Gábor Csifcsák",
-  url: none)
+  url: none,
+  note: none)
 #student-entry(
   name: [Gábor Csifcsák],
   year: "2016-2019",
   title: "Optimizing transcranial direct current stimulation for treatment of chronic pain and depression",
   role: none,
-  url: none)
+  url: none,
+  note: "HelseNord, PFP1237\_15")
 
 #v(0.5em)
 == PhD students
 
+#student-entry(
+  name: [Espen Wiseman Engeland],
+  year: "2025-2029",
+  title: "Individual Variability in early treatment response to intermittent Theta-Burst Stimulation (iTBS) in Depression: Results from a Randomized, Double-Blind, Sham-Controlled Study",
+  role: "co-supervisor, main supervisor: Marte Ørbo",
+  url: none)
 #student-entry(
   name: [Steffen Rygg Aasen],
   year: "2024",
@@ -799,6 +816,18 @@ statistics.
 #v(0.5em)
 == Master students
 
+#student-entry(
+  name: [Maria Puchinina],
+  year: "2026-2027",
+  title: "Immediate TMS-evoked potentials: A measure of cortical excitability?",
+  role: none,
+  url: none)
+#student-entry(
+  name: [Anastasios Ntousas],
+  year: "2026",
+  title: "Effects of motivation on reinforcement learning and mind wandering",
+  role: "co-supervisor, main supervisor: Gábor Csifcsák",
+  url: none)
 #student-entry(
   name: [Tim Cools],
   year: "2023-2024",
@@ -922,6 +951,13 @@ Joakim],
 #v(0.5em)
 == Bachelor students
 
+#student-entry(
+  name: [Vetle Bersås \
+Zuzanna Kilian],
+  year: "2026",
+  title: "Effects of motivation on reinforcement learning and mind wandering",
+  role: "co-supervisor, main supervisor: Gábor Csifcsák",
+  url: none)
 #student-entry(
   name: [Christian Fossheim],
   year: "2015",

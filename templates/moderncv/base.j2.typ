@@ -193,7 +193,8 @@
   year: "{{ format_year(s.year) }}",
   title: "{{ s.title }}",
   role: {{ format_role(s) }},
-  url: {% if s.link %}"{{ s.link }}"{% else %}none{% endif %}
+  url: {% if s.link %}"{{ s.link }}"{% else %}none{% endif %},
+  note: {% if s.note %}"{{ s.note }}"{% else %}none{% endif %}
 )
 {% endfor %}
 {% endif %}

@@ -1,6 +1,10 @@
 # Students section - organized by degree type
 
 postdocs:
+  - name: Vesal Rasoulzadeh
+    year: 2026
+    title: Time-on-task effects on attentional transitions 
+    note: visiting post-doc (Roeljan Wiersema)
   - name: Sam Verschooren
     year:
       - 2025
@@ -23,6 +27,12 @@ postdocs:
     note: HelseNord, PFP1237\_15
 
 phd:
+  - name: Espen Wiseman Engeland
+    year: 
+      - 2025
+      - 2029
+    title: "Individual Variability in early treatment response to intermittent Theta-Burst Stimulation (iTBS) in Depression: Results from a Randomized, Double-Blind, Sham-Controlled Study"
+    main-supervisor: Marte Ørbo
   - name: Steffen Rygg Aasen
     year:
       - 2024
@@ -113,6 +123,16 @@ forskerlinje:
     title: Investigating the relationship between executive control and mind-wandering using transcranial direct current stimulation
 
 msc:
+  - name: Maria Puchinina
+    year:
+      - 2026
+      - 2027
+    title: "Immediate TMS-evoked potentials: A measure of cortical excitability?"
+    co-supervisor: Gábor Csifcsák
+  - name: Anastasios Ntousas
+    year: 2026
+    title: Effects of motivation on reinforcement learning and mind wandering
+    main-supervisor: Gábor Csifcsák
   - name: Tim Cools
     year:
       - 2023
@@ -227,6 +247,12 @@ profesjon:
     main-supervisor: Jørgen Sundby
 
 bsc:
+  - name: 
+      - Vetle Bersås
+      - Zuzanna Kilian
+    year: 2026
+    title: Effects of motivation on reinforcement learning and mind wandering
+    main-supervisor: Gábor Csifcsák
   - name: Christian Fossheim 
     year: 2015
     title: Moment-to-moment fluctuations in emotional valence and mind-wandering
