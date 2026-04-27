@@ -1,5 +1,12 @@
 # Grants section
 grants:
+  - title: "Wallenberg AI, Autonomous Systems and Software Program - Humanity and Society (WASP-HS)"
+    date: "2027-2028"
+    amount: "500k NOK"
+    description: |
+      - "Understanding and Mitigating AI Manipulation: A Collaborative Workshop Series"
+      - collaboration with KTH (Sweden), NH (Norway) and DTU (Denmark)
+
   - title: "UiT Talent Infrastructure"
     date: "2025"
     amount: "4.6 million NOK, ≈ 420,000 EUR"

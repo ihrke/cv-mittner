@@ -484,6 +484,14 @@ statistics.
 == Research Grants
 
 #dated-entry(
+  title: "Wallenberg AI, Autonomous Systems and Software Program - Humanity and Society (WASP-HS)",
+  date: "2027-2028",
+  amount: "500k NOK",
+  description: [
+- "Understanding and Mitigating AI Manipulation: A Collaborative Workshop Series"
+- collaboration with KTH (Sweden), NH (Norway) and DTU (Denmark)
+])
+#dated-entry(
   title: "UiT Talent Infrastructure",
   date: "2025",
   amount: "4.6 million NOK, ≈ 420,000 EUR",
@@ -1252,6 +1260,12 @@ Håkon Reithe],
 
 == Institutional Responsibilities
 
+#dated-entry(
+  title: "Evaluation committee for evaluation of qualification for professorship (University of Bergen)",
+  date: "2025",
+  amount: "",
+  description: none,
+  url: none)
 #dated-entry(
   title: "Selection committee for Associate professor in quantitative methods (University of Trondheim)",
   date: "2022",
