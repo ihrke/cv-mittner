@@ -239,20 +239,23 @@ statistics.
 == Books
 
 #pub-item[
-  (76) Mehmetoglu, M. & _Mittner, M._ (2021). _Applied Statistics Using R_. SAGE. https://tinyurl.com/svddmm
+  (77) Mehmetoglu, M. & _Mittner, M._ (2021). _Applied Statistics Using R_. SAGE. https://tinyurl.com/svddmm
 ]
 #pub-item[
-  (75) Mehmetoglu, M. & _Mittner, M._ (2020). _Innføring i R for statistiske dataanalyser_. Universitetsforlaget. https://tinyurl.com/wx4xbfpc
+  (76) Mehmetoglu, M. & _Mittner, M._ (2020). _Innføring i R for statistiske dataanalyser_. Universitetsforlaget. https://tinyurl.com/wx4xbfpc
 ]
 
 == Preprints
 
 #pub-item[
-  (74) Aasen, S. R., Babiker, S. M. E., Vangen, A. M. K., Haugan, S. B., Sandell, S. A. O., Saksvik-Lehouillier, I., Kam, J., _Mittner, M._, & Csifcsák, G. (2025). The Effects of Partial Sleep Deprivation on Mind Wandering, Executive Performance and Affect. _Preprint_. https://osf.io/kmqfz_v3/ (submitted)
+  (75) Slupphaug, K., Mehmetoglu, M., & _Mittner, M._ (2026). Consistent Estimates from Biased Estimators: Monte-Carlo Consistent Partial Least Squares for Latent Interaction Models with Ordinal Indicators. _PsyArXiv_. https://osf.io/preprints/psyarxiv/fwzj6_v1/
 ]
 
 == Journal articles
 
+#pub-item[
+  (74) Aasen, S. R., Babiker, S., Vangen, A. M. K., Haugan, S. B., Sandell, S. A., Saksvik-Lehouillier, I., Kam, J. W. Y., _Mittner, M._, & Csifcsák, G. (2026). The Effects of Partial Sleep Deprivation on Mind Wandering, Executive Performance and Affect. _Consciousness and Cognition_, _142_, 104071. https://doi.org/10.1016/j.concog.2026.104071
+]
 #pub-item[
   (73) Csifcsák, G. & _Mittner, M._ (2026). Reward Processing under Illusion of Control: The Sensitivity of the Feedback-Related Negativity to Prediction Errors Is Not Altered When Random Outcomes Are Perceived as the Consequence of One's Own Actions. _International Journal of Psychophysiology_, _219_, 113300. https://doi.org/10.1016/j.ijpsycho.2025.113300
 ]
