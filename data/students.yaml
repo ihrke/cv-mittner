@@ -306,6 +306,9 @@ bsc:
     main-supervisor: Gábor Csifcsák
 
 exchange:
+  - name: Rinka Kojima
+    year: 2026
+    title: "Immediate TMS-evoked potentials"
   - name: Stefan Weinhardt
     year: 2025
     title: "The effect of respiration on internal and externally directed attention"

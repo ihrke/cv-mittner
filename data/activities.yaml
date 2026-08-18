@@ -13,8 +13,10 @@ sections:
       - year: 2025
         description: "Management committee COST action CA24148"
         link: https://www.cost.eu/actions/CA24148/
-      - year: 2025
+      - year: "2025--"
         description: "Reviewer Riksbankens Jubileumsfond RJ"
+      - year: "2026"
+        description: "Reviewer for The Wallenberg Foundations"
       - year: 2024
         description: "Review panel member, online course on 'Statistical research methods', Epigum (Sage Publications)"
       - year: 2024
@@ -40,7 +42,7 @@ sections:
 
   - title: "Institutional Responsibilities"
     entries:
-      - year: 2025
+      - year: 2026
         description: "Evaluation committee for evaluation of qualification for professorship (University of Bergen)"
       - year: 2022
         description: "Selection committee for Associate professor in quantitative methods (University of Trondheim)"
